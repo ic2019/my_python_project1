@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
 # Note: To use the 'upload' functionality of this file, you must:
 #   $ pipenv install twine --dev
 
@@ -17,7 +18,7 @@ DESCRIPTION = 'Python based web load testing tool.'
 URL = 'https://github.com/ic2019/my_python_project1'
 EMAIL = 'icanalytics2019@gmail.com'
 AUTHOR = 'Indu Chandrasekharan'
-REQUIRES_PYTHON = '>=3.7.0'
+REQUIRES_PYTHON = '>=3.8.0'
 VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
